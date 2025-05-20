@@ -1,7 +1,7 @@
 function Css() {
   return (
     <>
-      <h2>css Works!</h2>
+      <h2>Css Works!</h2>
     </>
   );
 }
